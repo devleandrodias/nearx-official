@@ -1,0 +1,3 @@
+[submodule "drex/drex/lib/forge-std"]
+	path = drex/drex/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
